@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace Not_Hello__World
+namespace Calculator
 {
     class Program
     {
