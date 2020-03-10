@@ -81,7 +81,7 @@
 
 using System;
 
-namespace Number_Multiplier
+namespace Calculator
 {
     class Program
     {
